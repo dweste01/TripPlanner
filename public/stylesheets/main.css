@@ -1,0 +1,25 @@
+body {
+  background-color: #d6e5ff; }
+
+.dropdown {
+  clear: both; }
+  .dropdown label {
+    display: block; }
+  .dropdown select {
+    width: 90%;
+    float: left; }
+
+#days {
+  margin: 10px 0px; }
+
+.nav-item {
+  list-style: none; }
+
+#mapCanvas {
+  height: 75vh; }
+
+.plus {
+  border-radius: 50%; }
+
+.delete {
+  border-radius: 50%; }
