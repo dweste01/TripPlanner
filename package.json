@@ -1,0 +1,31 @@
+{
+  "name": "TripPlanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweste01/TripPlanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dweste01/TripPlanner/issues"
+  },
+  "homepage": "https://github.com/dweste01/TripPlanner#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "nunjucks": "^3.0.0",
+    "nunjucks-autoescape": "^1.0.1",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.4"
+  }
+}
