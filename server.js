@@ -1,6 +1,6 @@
 'use strict';
 
-const db = require('./models')
+const db = require('./models').db
 // const express = require('express');
 // const app = express();
 const app = require('./app');
